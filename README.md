@@ -5,6 +5,6 @@ To date, I am studying full-time in the evening at the "Information Technology T
 I have been doing self-studying for two years, I devote all my free time to learning the C++ programming language, I study the Qt framework.  
 At the moment, I am looking for a vacancy for the position of a developer at the "Intern" or "Junior" level for accelerated training not only in my free time, but also during my professional activity.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiKikimmaranuraghazra&show_icons=true&theme=radical)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kikimmar&show_icons=true&theme=radical) 
 
-![![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?KikimmarKnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+![](https://leetcard.jacoblin.cool/Kikimmar?ext=heatmap)
